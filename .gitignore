@@ -1,0 +1,7 @@
+
+CleanArchWithCQRSandMediator.Domain/obj/
+CleanArchitectureandMediator.Infrastructure/obj/
+CleanArchitectureWithCQRSandMediator.Application/obj/
+CleanArchitectureandMediator.Infrastructure/bin/Debug/
+CleanArchWithCQRSandMediator.Domain/bin/Debug/
+CleanArchitectureWithCQRSandMediator.Application/bin/Debug/
