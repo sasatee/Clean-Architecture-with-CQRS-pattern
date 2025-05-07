@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleamArchitectureWithCQRSandMediator.Application\CleanArchitectureWithCQRSandMediator.Application.csproj" />
+    <ProjectReference Include="..\CleanArchitectureWithCQRSandMediator.Application\CleanArchitectureWithCQRSandMediator.Application.csproj" />
     <ProjectReference Include="..\CleanArchitectureandMediator.Infrastructure\CleanArchitectureWithCQRSandMediator.Infrastructure.csproj" />
   </ItemGroup>
 
