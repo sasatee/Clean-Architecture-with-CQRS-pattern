@@ -47,18 +47,4 @@ This project demonstrates a robust implementation of the Clean Architecture patt
 - FluentValidation
 - Swagger/Swashbuckle
 
----
 
-## Project Overview (for your CV)
-
-**Clean Architecture with CQRS Pattern (.NET, MediatR, EF Core)**  
-Designed and implemented a modular web API using Clean Architecture principles and the CQRS pattern. The solution features:
-
-- **Layered architecture**: Clear separation between Domain, Application, Infrastructure, and API layers.
-- **CQRS with MediatR**: Commands and queries are handled via MediatR, promoting decoupled and testable code.
-- **Entity Framework Core**: Used for data persistence and migrations.
-- **RESTful API**: Exposes endpoints for managing products, including full CRUD operations.
-- **Validation and Error Handling**: Integrated FluentValidation and custom middleware for robust request validation and exception handling.
-- **API Documentation**: Swagger/OpenAPI for easy API exploration and testing.
-
-*This project demonstrates best practices in modern .NET backend development, scalable architecture, and advanced patterns like CQRS.* 
