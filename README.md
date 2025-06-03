@@ -40,7 +40,7 @@ This project demonstrates a robust implementation of the Clean Architecture patt
 
 ## Technologies
 
-- .NET 7/8
+- .NET 9/8
 - ASP.NET Core
 - MediatR
 - Entity Framework Core
